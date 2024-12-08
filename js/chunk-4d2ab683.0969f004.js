@@ -150,26 +150,6 @@
                           "a",
                           {
                             attrs: {
-                              href: "https://medium.com/",
-                              target: "_blank",
-                              rel: "noopener noreferrer",
-                            },
-                          },
-                          [
-                            e("ImageVue", {
-                              staticClass: "socialLogo",
-                              attrs: {
-                                src: "socialmediaicons/Medium.svg",
-                                size: "24px",
-                              },
-                            }),
-                          ],
-                          1
-                        ),
-                        e(
-                          "a",
-                          {
-                            attrs: {
                               href: "https://twitter.com/",
                               target: "_blank",
                               rel: "noopener noreferrer",
@@ -436,7 +416,6 @@
                             ),
                           ]
                         ),
-                        t._m(3),
                       ]
                     ),
                   ],

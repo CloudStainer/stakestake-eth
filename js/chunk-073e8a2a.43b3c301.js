@@ -543,7 +543,7 @@
                   "a",
                   {
                     attrs: {
-                      href: "https://twitter.com/ChimeraDefi",
+                      href: "https://twitter.com/",
                       target: "_blank",
                       rel: "noopener noreferrer",
                     },
@@ -556,7 +556,7 @@
                   "a",
                   {
                     attrs: {
-                      href: "https://discord.gg/C9GhCv86My",
+                      href: "https://discord.gg/",
                       target: "_blank",
                       rel: "noopener noreferrer",
                     },
@@ -569,12 +569,12 @@
                   "a",
                   {
                     attrs: {
-                      href: "https://medium.com/@chimera_defi",
+                      href: "https://t.me/",
                       target: "_blank",
                       rel: "noopener noreferrer",
                     },
                   },
-                  [t._v("Medium ")]
+                  [t._v("Telegram ")]
                 ),
               ]),
             ]);
