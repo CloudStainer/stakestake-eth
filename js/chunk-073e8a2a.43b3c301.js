@@ -121,7 +121,7 @@
                               attrs: { src: "logo-white.svg", size: "30px" },
                             }),
                             e("div", { staticClass: "main" }, [
-                              t._v("SharedStake"),
+                              t._v("StakeStake"),
                             ]),
                           ],
                           1
@@ -379,7 +379,7 @@
                   ),
                 ]),
                 e("div", { staticClass: "bottom" }, [
-                  t._v("SharedStake © 2021"),
+                  t._v("StakeStake © 2024"),
                 ]),
               ]),
             ],
@@ -427,7 +427,7 @@
                 "a",
                 {
                   attrs: {
-                    href: "https://snapshot.page/#/sharedstake.eth",
+                    href: "https://snapshot.page/#/",
                     target: "_blank",
                     rel: "noopener noreferrer",
                   },
@@ -444,7 +444,7 @@
                 "a",
                 {
                   attrs: {
-                    href: "https://docs.sharedstake.finance/",
+                    href: "https://docs./",
                     target: "_blank",
                     rel: "noopener noreferrer",
                   },
@@ -510,12 +510,12 @@
             return e("div", { staticClass: "disclaimer" }, [
               e("p", [
                 t._v(
-                  " Please note that SharedStake protocol, its software, and all content found on it are provided on an “as is” and “as available” basis. "
+                  " Please note that StakeStake protocol, its software, and all content found on it are provided on an “as is” and “as available” basis. "
                 ),
               ]),
               e("p", [
                 t._v(
-                  " While we have made reasonable efforts to ensure the security and functionality of the SharedStake platform, including a formal audit by Certik, we are constantly working on the front-end. Please inform us on Discord if you are experiencing any bugs or odd behaviour on the UI. "
+                  " While we have made reasonable efforts to ensure the security and functionality of the StakeStake platform, including a formal audit by Certik, we are constantly working on the front-end. Please inform us on Discord if you are experiencing any bugs or odd behaviour on the UI. "
                 ),
               ]),
               e("p", [
@@ -525,7 +525,7 @@
               ]),
               e("p", [
                 t._v(
-                  " By using the SharedStake software you agree to not hold SharedStake or it's operators liable for any losses "
+                  " By using the StakeStake software you agree to not hold StakeStake or it's operators liable for any losses "
                 ),
               ]),
               e("p", [
@@ -591,7 +591,7 @@
                   "a",
                   {
                     attrs: {
-                      href: "https://github.com/SharedStake",
+                      href: "https://github.com/",
                       target: "_blank",
                       rel: "noopener noreferrer",
                     },
@@ -604,25 +604,12 @@
                   "a",
                   {
                     attrs: {
-                      href: "https://docs.sharedstake.finance/",
+                      href: "https://docs/",
                       target: "_blank",
                       rel: "noopener noreferrer",
                     },
                   },
                   [t._v("Documentation ")]
-                ),
-              ]),
-              e("span", { staticClass: "link footerLink" }, [
-                e(
-                  "a",
-                  {
-                    attrs: {
-                      href: "https://snapshot.page/#/sharedstake.eth",
-                      target: "_blank",
-                      rel: "noopener noreferrer",
-                    },
-                  },
-                  [t._v("SIPs ")]
                 ),
               ]),
             ]);
@@ -635,7 +622,7 @@
                 "a",
                 {
                   attrs: {
-                    href: "https://www.certik.org/projects/sharedstake",
+                    href: "https://www.certik.org/projects/",
                     target: "_blank",
                     rel: "noopener noreferrer",
                   },
@@ -652,7 +639,7 @@
                 "a",
                 {
                   attrs: {
-                    href: "https://docs.sharedstake.org/risks",
+                    href: "https://docs./",
                     target: "_blank",
                     rel: "noopener noreferrer",
                   },
@@ -720,7 +707,7 @@
                     "DropdownItemAnchor",
                     {
                       staticClass: "px-6",
-                      attrs: { href: "https://docs.sharedstake.finance/" },
+                      attrs: { href: "https://docs." },
                     },
                     [t._v(" Learn "), e("DropdownArrow")],
                     1
@@ -731,7 +718,7 @@
                       e(
                         "DropdownItemAnchor",
                         {
-                          attrs: { href: "https://docs.sharedstake.finance/" },
+                          attrs: { href: "https://docs." },
                         },
                         [t._v(" Docs ")]
                       ),
@@ -739,7 +726,7 @@
                         "DropdownItemAnchor",
                         {
                           attrs: {
-                            href: "https://snapshot.org/#/sharedstake.eth",
+                            href: "https://snapshot.org/#/",
                           },
                         },
                         [t._v(" DAO ")]
@@ -760,17 +747,17 @@
                       ),
                       e(
                         "DropdownItemAnchor",
-                        { attrs: { href: "https://discord.gg/C9GhCv86My" } },
+                        { attrs: { href: "https://discord.gg/" } },
                         [t._v(" Discord ")]
                       ),
                       e(
                         "DropdownItemAnchor",
-                        { attrs: { href: "https://t.me/SharedStakeFinance" } },
+                        { attrs: { href: "https://t.me/" } },
                         [t._v(" Telegram ")]
                       ),
                       e(
                         "DropdownItemAnchor",
-                        { attrs: { href: "https://twitter.com/ChimeraDefi" } },
+                        { attrs: { href: "https://twitter.com/" } },
                         [t._v(" Twitter ")]
                       ),
                     ],
@@ -986,7 +973,7 @@
                   (this.lastScrollPosition = t)));
             },
             async setSgtPrice() {
-              const t = "sharedstake-governance-token";
+              const t = "stakestake-governance-token";
               this.sgtPrice = await Object(i["a"])(t);
             },
           },

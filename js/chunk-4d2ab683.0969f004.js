@@ -90,7 +90,7 @@
                           "a",
                           {
                             attrs: {
-                              href: "https://discord.gg/C9GhCv86My",
+                              href: "https://discord.gg/",
                               target: "_blank",
                               rel: "noopener noreferrer",
                             },
@@ -110,7 +110,7 @@
                           "a",
                           {
                             attrs: {
-                              href: "https://t.me/SharedStakeFinance",
+                              href: "https://t.me/",
                               target: "_blank",
                               rel: "noopener noreferrer",
                             },
@@ -130,7 +130,7 @@
                           "a",
                           {
                             attrs: {
-                              href: "https://github.com/SharedStake",
+                              href: "https://github.com/",
                               target: "_blank",
                               rel: "noopener noreferrer",
                             },
@@ -150,7 +150,7 @@
                           "a",
                           {
                             attrs: {
-                              href: "https://medium.com/@chimera_defi",
+                              href: "https://medium.com/",
                               target: "_blank",
                               rel: "noopener noreferrer",
                             },
@@ -170,7 +170,7 @@
                           "a",
                           {
                             attrs: {
-                              href: "https://twitter.com/ChimeraDefi",
+                              href: "https://twitter.com/",
                               target: "_blank",
                               rel: "noopener noreferrer",
                             },
@@ -396,7 +396,7 @@
                             ],
                             staticClass: "InfoHeader centertext",
                           },
-                          [t._v(" Staking with SharedStake ")]
+                          [t._v(" Staking with StakeStake ")]
                         ),
                         e(
                           "div",
@@ -413,7 +413,7 @@
                           },
                           [
                             t._v(
-                              " SharedStake users earn staking rewards every block, whether you hodl your stake or decide to invest your vEth2 in supported Ethereum dapps like Uniswap, SushiSwap, Curve, Maker, Compound, Aave, and many more... "
+                              " StakeStake users earn staking rewards every block, whether you hodl your stake or decide to invest your vEth2 in supported Ethereum dapps like Uniswap, SushiSwap, Curve, Maker, Compound, Aave, and many more... "
                             ),
                           ]
                         ),
@@ -432,7 +432,7 @@
                           },
                           [
                             t._v(
-                              " vEth2 is designed for DeFi compatibility. It is a yield bearing token with a 1:1 price ratio with Ether. vEth2 staking is also incentivized further with SGT, the SharedStake Governance Token. "
+                              " vEth2 is designed for DeFi compatibility. It is a yield bearing token with a 1:1 price ratio with Ether. vEth2 staking is also incentivized further with SGT, the StakeStake Governance Token. "
                             ),
                           ]
                         ),
@@ -487,7 +487,7 @@
                       ]),
                       e("div", { staticClass: "exp Info mb30" }, [
                         t._v(
-                          " SharedStake optimizes Eth2 staking profits by creating an off-chain yield bearing stable token (vEth2 has a 1:1 price ratio with Ether). Ethereum2 profit distribution will start with the Eth2 launch so until then, track your Eth2 profits in the SharedStake Dashboard. "
+                          "StakeStake optimizes Eth2 staking profits by creating an off-chain yield bearing stable token (vEth2 has a 1:1 price ratio with Ether). Ethereum2 profit distribution will start with the Eth2 launch so until then, track your Eth2 profits in the StakeStake Dashboard. "
                         ),
                       ]),
                       e("ImageVue", {
@@ -521,7 +521,7 @@
                       ]),
                       e("div", { staticClass: "exp Info mb30" }, [
                         t._v(
-                          " On top of Ethereum2 staking profits, holding vEth2 and leveraging it on other Decentralized Finance applications is further incentivized with SGT, used as a Proof of Participation token within the SharedStake Protocol. "
+                          " On top of Ethereum2 staking profits, holding vEth2 and leveraging it on other Decentralized Finance applications is further incentivized with SGT, used as a Proof of Participation token within the StakeStake Protocol. "
                         ),
                       ]),
                       e("ImageVue", {
@@ -587,7 +587,7 @@
                     {
                       staticClass: "certikLogo",
                       attrs: {
-                        href: "https://github.com/SharedStake/SharedStake-ui/blob/main/public/assets/static/AuditReport.pdf?raw=true",
+                        href: "https://github.com/",
                         target: "_blank",
                         rel: "noopener noreferrer",
                       },
@@ -649,7 +649,7 @@
                 ]),
                 e("div", { staticClass: "exp" }, [
                   t._v(
-                    " SharedStake is a decentralized Ethereum 2 staking solution that allows users to stake any amount of Ether and earn additional yield on top of their ETH2 rewards. "
+                    " StakeStake is a decentralized Ethereum 2 staking solution that allows users to stake any amount of Ether and earn additional yield on top of their ETH2 rewards. "
                   ),
                 ]),
               ]
@@ -695,7 +695,7 @@
                 "a",
                 {
                   attrs: {
-                    href: "https://docs.sharedstake.finance/",
+                    href: "https://docs./",
                     target: "_blank",
                     rel: "noopener noreferrer",
                   },
@@ -726,7 +726,7 @@
               ),
               e("br"),
               t._v(
-                " SharedStakers can un-stake their Ether at anytime by burning their vEth2 through the staking contract, subject to the pooled amount. "
+                " StakeStakers can un-stake their Ether at anytime by burning their vEth2 through the staking contract, subject to the pooled amount. "
               ),
             ]);
           },
@@ -738,7 +738,7 @@
                 "a",
                 {
                   attrs: {
-                    href: "https://sips.sharedstake.org/SIPS/sip-3.html",
+                    href: "https://sips./",
                     target: "_blank",
                     rel: "noopener noreferrer",
                   },
@@ -830,7 +830,7 @@
                       ]),
                       e("div", { staticClass: "text" }, [
                         t._v(
-                          " Ethereum2 is just the beginning for SharedStake... "
+                          " Ethereum2 is just the beginning for StakeStake... "
                         ),
                       ]),
                     ]),

@@ -575,13 +575,13 @@
             [
               e("div", { staticClass: "explanation" }, [
                 e("div", { staticClass: "title" }, [
-                  t._v("SharedStaked SGEth"),
+                  t._v("StakeStaked SGEth"),
                 ]),
                 e("div", { staticClass: "content" }, [
                   t._v(
                     " Total of " +
                       t._s(t.ethDeposited) +
-                      "ETH has been staked to SharedStake so far. "
+                      "ETH has been staked to StakeStake so far. "
                   ),
                   e("br"),
                   t._v(
@@ -593,7 +593,7 @@
                   ),
                   e("br"),
                   t._v(
-                    " When ETH is deposited into the SharedDeposit contract, a Validator-Share-ETH2 / SharedStake Governed Ether token (SGEth) is minted. SGEth is then optionally wrapped into wsgETH to earn interest from validators. Redeemable for the deposited ETH. "
+                    " When ETH is deposited into the StakeDeposit contract, a Validator-Share-ETH2 / StakeStake Governed Ether token (SGEth) is minted. SGEth is then optionally wrapped into wsgETH to earn interest from validators. Redeemable for the deposited ETH. "
                   ),
                 ]),
               ]),
