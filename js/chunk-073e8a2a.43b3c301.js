@@ -734,11 +734,6 @@
                       ),
                       e(
                         "DropdownItemAnchor",
-                        { attrs: { href: "https://discord.gg/" } },
-                        [t._v(" Discord ")]
-                      ),
-                      e(
-                        "DropdownItemAnchor",
                         { attrs: { href: "https://t.me/" } },
                         [t._v(" Telegram ")]
                       ),

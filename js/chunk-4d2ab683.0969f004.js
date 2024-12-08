@@ -86,26 +86,7 @@
                           "flex items-center justify-center gap-8 mb-8 md-large:justify-start",
                       },
                       [
-                        e(
-                          "a",
-                          {
-                            attrs: {
-                              href: "https://discord.gg/",
-                              target: "_blank",
-                              rel: "noopener noreferrer",
-                            },
-                          },
-                          [
-                            e("ImageVue", {
-                              staticClass: "socialLogo",
-                              attrs: {
-                                src: "socialmediaicons/Discord.svg",
-                                size: "24px",
-                              },
-                            }),
-                          ],
-                          1
-                        ),
+                        
                         e(
                           "a",
                           {
