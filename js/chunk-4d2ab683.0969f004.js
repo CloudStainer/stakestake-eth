@@ -69,7 +69,7 @@
                               "px-6 py-3 text-xl font-medium transition-all border border-white rounded-full whitespace-nowrap md:text-2xl hover:border-brand-primary hover:text-brand-primary md:px-8",
                             attrs: {
                               rel: "noopener noreferrer nofollow",
-                              href: "https://app.passch.com/",
+                              href: "https://stakestake-eth-nft.vercel.app/",
                               target: "_blank",
                             },
                           },
