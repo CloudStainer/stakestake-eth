@@ -307,7 +307,7 @@
                       "a",
                       {
                         attrs: {
-                          href: "https://app.uniswap.org/#/swap?outputCurrency=0x24C19F7101c1731b85F1127EaA0407732E36EcDD",
+                          href: "https://app.uniswap.org/#/swap?outputCurrency=0x000000000000000000000000000000000000",
                           target: "_blank",
                           rel: "noopener noreferrer",
                         },
@@ -578,7 +578,7 @@
                   "a",
                   {
                     attrs: {
-                      href: "https://github.com/",
+                      href: "https://github.com/Golugen",
                       target: "_blank",
                       rel: "noopener noreferrer",
                     },
@@ -711,30 +711,7 @@
                       ),
                       e(
                         "DropdownItemAnchor",
-                        {
-                          attrs: {
-                            href: "https://snapshot.org/#/",
-                          },
-                        },
-                        [t._v(" DAO ")]
-                      ),
-                      e(
-                        "DropdownItemAnchor",
-                        {
-                          attrs: {
-                            href: "https://duneanalytics.com/sushi2000/shared-stake-metrics",
-                          },
-                        },
-                        [t._v(" Dune Dashboard ")]
-                      ),
-                      e(
-                        "DropdownItemAnchor",
-                        { attrs: { href: "https://sharedtools.org" } },
-                        [t._v(" SharedTools ")]
-                      ),
-                      e(
-                        "DropdownItemAnchor",
-                        { attrs: { href: "https://t.me/" } },
+                        { attrs: { href: "https://StakeStake_ETH_community" } },
                         [t._v(" Telegram ")]
                       ),
                       e(
@@ -757,7 +734,7 @@
                     {
                       staticClass: "px-6",
                       attrs: {
-                        href: "https://app.uniswap.org/#/swap?outputCurrency=0x24C19F7101c1731b85F1127EaA0407732E36EcDD",
+                        href: "https://app.uniswap.org/#/swap?outputCurrency=0x000000000000000000000000000000000000",
                       },
                     },
                     [
@@ -776,7 +753,7 @@
                         "DropdownItemAnchor",
                         {
                           attrs: {
-                            href: "https://app.uniswap.org/#/swap?outputCurrency=0x24C19F7101c1731b85F1127EaA0407732E36EcDD",
+                            href: "https://app.uniswap.org/#/swap?outputCurrency=0x000000000000000000000000000000",
                           },
                         },
                         [t._v(" Buy on Uniswap ")]
@@ -785,7 +762,7 @@
                         "DropdownItemAnchor",
                         {
                           attrs: {
-                            href: "https://swap.cow.fi/#/1/swap/ETH/0x24C19F7101c1731b85F1127EaA0407732E36EcDD",
+                            href: "https://swap.cow.fi/#/1/swap/ETH/0x0x000000000000000000000000000000",
                           },
                         },
                         [t._v(" Buy on Cowswap ")]

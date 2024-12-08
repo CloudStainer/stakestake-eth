@@ -111,7 +111,7 @@
                           "a",
                           {
                             attrs: {
-                              href: "https://github.com/",
+                              href: "https://github.com/Golugen",
                               target: "_blank",
                               rel: "noopener noreferrer",
                             },
@@ -547,7 +547,7 @@
                     {
                       staticClass: "certikLogo",
                       attrs: {
-                        href: "https://github.com/",
+                        href: "https://github.com/Golugen",
                         target: "_blank",
                         rel: "noopener noreferrer",
                       },
