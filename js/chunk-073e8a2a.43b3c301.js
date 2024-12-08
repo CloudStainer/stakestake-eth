@@ -281,7 +281,7 @@
                           "span",
                           { staticClass: "link footerLink" },
                           [
-                            e("router-link", { attrs: { to: "/FAQ" } }, [
+                            e("href", { attrs: { to: "https://medium.com/@sstake_defi" } }, [
                               t._v("FAQ "),
                             ]),
                           ],
@@ -294,16 +294,6 @@
                           [
                             e("router-link", { attrs: { to: "/privacy" } }, [
                               t._v("Privacy Policy "),
-                            ]),
-                          ],
-                          1
-                        ),
-                        e(
-                          "span",
-                          { staticClass: "link footerLink" },
-                          [
-                            e("router-link", { attrs: { to: "/terms" } }, [
-                              t._v("Terms of Service "),
                             ]),
                           ],
                           1
@@ -544,7 +534,7 @@
                 "a",
                 {
                   attrs: {
-                    href: "https://www.certik.org/projects/",
+                    href: "https://medium.com/@sstake_defi",
                     target: "_blank",
                     rel: "noopener noreferrer",
                   },
@@ -561,7 +551,7 @@
                 "a",
                 {
                   attrs: {
-                    href: "https://stakestake-eth.gitbook.io/stakestake_eth",
+                    href: "https://medium.com/@sstake_defi",
                     target: "_blank",
                     rel: "noopener noreferrer",
                   },
