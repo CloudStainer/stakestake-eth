@@ -588,23 +588,11 @@
                 "div",
                 { staticClass: "relative py-2 cursor-pointer group" },
                 [
-                  e(
-                    "DropdownItemRouter",
-                    { staticClass: "px-6", attrs: { to: "/stake" } },
-                    [t._v(" Stake "), e("DropdownArrow")],
-                    1
-                  ),
-                  e(
-                    "DropdownGroup",
-                    [
-                      e("DropdownItemRouter", { attrs: { to: "/stake" } }, [
-                        t._v(" Stake "),
-                      ]),
-                    ],
-                    1
-                  ),
+                  e("DropdownItemRouter", { attrs: { to: "/stake" } }, [
+                    t._v(" Stake "),
+                  ]),
                 ],
-                1
+            1
               ),
               e(
                 "div",
