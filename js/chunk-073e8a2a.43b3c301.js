@@ -665,21 +665,6 @@
                       e("DropdownItemRouter", { attrs: { to: "/stake" } }, [
                         t._v(" Stake "),
                       ]),
-                      e("DropdownItemRouter", { attrs: { to: "/rollover" } }, [
-                        t._v(" Rollover "),
-                      ]),
-                      e("DropdownItemRouter", { attrs: { to: "/withdraw" } }, [
-                        t._v(" Withdraw "),
-                      ]),
-                      e("DropdownItemRouter", { attrs: { to: "/wrap" } }, [
-                        t._v(" Wrap "),
-                      ]),
-                      e("DropdownItemRouter", { attrs: { to: "/unwrap" } }, [
-                        t._v(" Unwrap "),
-                      ]),
-                      e("DropdownItemRouter", { attrs: { to: "/earn" } }, [
-                        t._v(" Earn "),
-                      ]),
                     ],
                     1
                   ),
