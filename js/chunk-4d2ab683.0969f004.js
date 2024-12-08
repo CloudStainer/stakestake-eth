@@ -110,7 +110,7 @@
                           "a",
                           {
                             attrs: {
-                              href: "https://t.me/",
+                              href: "https://t.me/StakeStake_ETH_community",
                               target: "_blank",
                               rel: "noopener noreferrer",
                             },
@@ -150,7 +150,7 @@
                           "a",
                           {
                             attrs: {
-                              href: "https://twitter.com/",
+                              href: "https://x.com/StakeStake_ETH",
                               target: "_blank",
                               rel: "noopener noreferrer",
                             },
@@ -674,7 +674,7 @@
                 "a",
                 {
                   attrs: {
-                    href: "https://docs./",
+                    href: "https://stakestake-eth.gitbook.io/stakestake_eth",
                     target: "_blank",
                     rel: "noopener noreferrer",
                   },

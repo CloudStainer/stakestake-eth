@@ -4918,7 +4918,7 @@ PERFORMANCE OF THIS SOFTWARE.
               default:
                 throw new Error(
                   t +
-                    " is not a valid event code, for a list of valid event codes see: https://docs.blocknative.com/notify-sdk#event-codes"
+                    " is not a valid event code, for a list of valid event codes see: https://stakestake-eth.gitbook.io/stakestake_eth"
                 );
             }
             if ("function" !== typeof e)

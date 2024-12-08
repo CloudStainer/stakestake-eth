@@ -444,7 +444,7 @@
                 "a",
                 {
                   attrs: {
-                    href: "https://docs./",
+                    href: "https://stakestake-eth.gitbook.io/stakestake_eth",
                     target: "_blank",
                     rel: "noopener noreferrer",
                   },
@@ -543,7 +543,7 @@
                   "a",
                   {
                     attrs: {
-                      href: "https://twitter.com/",
+                      href: "https://x.com/StakeStake_ETH",
                       target: "_blank",
                       rel: "noopener noreferrer",
                     },
@@ -556,20 +556,7 @@
                   "a",
                   {
                     attrs: {
-                      href: "https://discord.gg/",
-                      target: "_blank",
-                      rel: "noopener noreferrer",
-                    },
-                  },
-                  [t._v("Discord ")]
-                ),
-              ]),
-              e("span", { staticClass: "link footerLink" }, [
-                e(
-                  "a",
-                  {
-                    attrs: {
-                      href: "https://t.me/",
+                      href: "https://t.me/StakeStake_ETH_community",
                       target: "_blank",
                       rel: "noopener noreferrer",
                     },
@@ -604,7 +591,7 @@
                   "a",
                   {
                     attrs: {
-                      href: "https://docs/",
+                      href: "https://stakestake-eth.gitbook.io/stakestake_eth",
                       target: "_blank",
                       rel: "noopener noreferrer",
                     },
@@ -639,7 +626,7 @@
                 "a",
                 {
                   attrs: {
-                    href: "https://docs./",
+                    href: "https://stakestake-eth.gitbook.io/stakestake_eth",
                     target: "_blank",
                     rel: "noopener noreferrer",
                   },
@@ -707,7 +694,7 @@
                     "DropdownItemAnchor",
                     {
                       staticClass: "px-6",
-                      attrs: { href: "https://docs." },
+                      attrs: { href: "https://stakestake-eth.gitbook.io/stakestake_eth" },
                     },
                     [t._v(" Learn "), e("DropdownArrow")],
                     1
@@ -718,7 +705,7 @@
                       e(
                         "DropdownItemAnchor",
                         {
-                          attrs: { href: "https://docs." },
+                          attrs: { href: "https://stakestake-eth.gitbook.io/stakestake_eth" },
                         },
                         [t._v(" Docs ")]
                       ),
@@ -757,7 +744,7 @@
                       ),
                       e(
                         "DropdownItemAnchor",
-                        { attrs: { href: "https://twitter.com/" } },
+                        { attrs: { href: "https://x.com/StakeStake_ETH" } },
                         [t._v(" Twitter ")]
                       ),
                     ],
